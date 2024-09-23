@@ -1,4 +1,6 @@
-### ID 5280 — Less is More: Label Recommendation for Weakly Supervised Point Cloud Semantic Segmentation 
+# Less Is More: Label Recommendation for Weakly Supervised Point Cloud Semantic Segmentation 
+
+Zhiyi Pan, Nan Zhang, Wei Gao, Shan Liu, Ge Li
 
 #### Installation Guide
 
